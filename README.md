@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gakkou03)
 
 ![Gakkou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gakkou0&show_icons=true&theme=radical)
-![Most Used ](https://github-readme-stats.vercel.app/api/top-langs/?username=Gakkou0&layout=compact&theme=radical)
+[![Most Used ](https://github-readme-stats.vercel.app/api/top-langs/?username=Gakkou0&layout=compact&theme=radical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Skills 
 
