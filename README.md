@@ -1,5 +1,5 @@
 <h1 align="center"> Hugo Rodrigues </h1>
-<h3 align="center">⭐ Em constante aprendizado ⭐</h3>
+<h3 align="center">Em constante aprendizado</h3>
 
 <h2 align="center">Profile Stats</h2>
 <table cellpadding="0">
